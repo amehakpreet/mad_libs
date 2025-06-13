@@ -81,3 +81,7 @@ print(f"Then you cover it with {word7} sauce, {word8} cheese amd fresh chopped {
 print(f"Next you have to bake it in a very hot {word10}. When it is done, cut it into {word11} {word12}.")
 print(f"Some kids like {word13} pizza the best, but my favourite is the {word14} pizza.")
 print(f"If I could, I would eat pizza {word15} times a day!")
+
+print("")
+print("")
+print(f"Thanks for playing {name}! Hope it was funny :)")
